@@ -1,3 +1,3 @@
 # Regularization_Overfitting
 
-This Notebook contain implement of several regularization technics to avoid Overfitting problem . 
+This Notebook contains implementation of several regularization technics to avoid Overfitting problem . 
